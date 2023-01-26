@@ -8,7 +8,7 @@ This is a single-person project by FSSE RevoU designed for us to make our Websit
 
 Using both **_Miro_** and **_Figma_**.
 
-The focus of this project is to make **_Wireframe_**,
+The focus of this project is to make **_Wireframe_**, **_Mockup_** & **_Prototype_**.
 
 That will enable us to see **the layout of a web page** that demonstrates what interface elements **will exist** on key pages,
 
